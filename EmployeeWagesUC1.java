@@ -2,7 +2,7 @@ package brideLabz.employeeWagesUCs;
 
 public class EmployeeWagesUC1 {
 	public static void main(String[] args) {
-		int IS_FULL_TIME=2;
+		int IS_FULL_TIME=3;
 		double empCheck= Math.floor(Math.random()*10)%2;
 		if (empCheck==IS_FULL_TIME)
 			System.out.println("Employee is present");
