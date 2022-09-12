@@ -71,7 +71,7 @@ public class EmployeeWagesUC8 {
 			TotalMonthlySalary+= salary;
 
 		}
-		System.out.println("======================******=======================");
+		System.out.println("=====******====");
 		System.out.println("Employee Company is: "+this.comp.compName);
 		System.out.println("Employee's final working hour is  "+TotalWorkingHour); //printing the total working hour
 
